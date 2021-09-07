@@ -1,0 +1,1 @@
+const double defpaultPadding = 16.0;
